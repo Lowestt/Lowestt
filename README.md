@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to code hehe.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me search me on my fb acc John Luis with a BIG D.
+- file:///C:/Users/Windows%2011/Downloads/github-snake.svg
 
 <!---
 Lowestt/Lowestt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
